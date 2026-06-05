@@ -217,7 +217,7 @@ cd scripts/power_estimation
 
 ## Licença
 
-Este projeto está licenciado conforme o arquivo [LICENSE](LICENSE) incluído no pacote (quando aplicável). Módulos RTL derivados de projetos de terceiros mantêm os avisos de copyright nos respectivos arquivos `.v`.
+Este projeto está licenciado conforme o arquivo [LICENSE](LICENSE). Módulos RTL derivados de projetos de terceiros mantêm os avisos de copyright nos respectivos arquivos `.v`.
 
 ---
 
